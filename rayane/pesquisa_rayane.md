@@ -34,7 +34,7 @@ Linguagens de programação nada mais são do que conjuntos de **instruções pa
 
 Smartphones, tablets, laptops e cada vez mais uma infinidade de dispositivos estão inseridos nesta categoria, e não necessariamente a mesma linguagem de programação será utilizada para produzir software para cada um deles. Conforme a aplicação, uma linguagem pode ser mais indicada que outra e a seguir estão presentes algumas das principais linguagens com seus **principais usos** atualmente.
 
-#### Tabela de linguagens mais usadas e seus respectivos usos:
+### Tabela de linguagens mais usadas e seus respectivos usos:
 
 | **MOBILE**  | **WEB**    | **BANCO DE DADOS** | **SISTEMAS OPERACIONAIS** | **SISTEMAS EMBARCADOS** |
 |:-----------:|:----------:|:------------------:|:-------------------------:|:-----------------------:|
