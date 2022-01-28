@@ -37,7 +37,7 @@ Smartphones, tablets, laptops e cada vez mais uma infinidade de dispositivos est
 #### Tabela de linguagens mais usadas e seus respectivos usos:
 
 | **MOBILE**  | **WEB**    | **BANCO DE DADOS** | **SISTEMAS OPERACIONAIS** | **SISTEMAS EMBARCADOS** |
-|-------------|------------|:------------------:|---------------------------|-------------------------|
+|:-----------:|:----------:|:------------------:|:-------------------------:|:-----------------------:|
 | JAVA        | PHP        | SQL                | C                         | JAVA                    |
 | OBJECTIVE C | JAVASCRIPT | POSTGRESQL         | C++                       | C++                     |
 | SWIFT       | TYPESCRIPT | MYSQL              | ASSEMBLY                  | C                       |
