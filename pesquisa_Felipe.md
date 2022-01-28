@@ -1,4 +1,3 @@
-
 #Conceitos do Mundo BackEnd
 
 ##Pesquisa para a aula da turma de BackEnd do Senac realizada em 27/01/2022
