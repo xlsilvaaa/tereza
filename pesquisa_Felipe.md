@@ -2,7 +2,7 @@
 
 ## Pesquisa para a aula da turma de BackEnd do Senac realizada em 27/01/2022
 
-- **Biblioteca** :
+**Biblioteca** :
 
 Ela é uma coleção de subprogramas usados no desenvolvimento de softwares. A sua principal função é facilitar a programação, garantindo mais agilidade e menos erros. 
 
@@ -10,7 +10,7 @@ Quando você está usando uma linguagem de programação e aplica uma biblioteca
 
 Sendo assim, elas são já testadas e referendadas, sem que você precise criar algo do zero. 
 
-- **FrameWork** :
+**FrameWork** :
 
 Na programação, um framework é um conjunto de códigos genéricos capaz de unir trechos de um projeto de desenvolvimento. 
 
@@ -20,7 +20,7 @@ Por mais que seu funcionamento e aplicação pareçam simples, o dev precisa ent
 
 Se a escolha for errada, o resultado pode ser contrário ao esperado e gerar um série de problemas que vão desde a construção de um código sujo até o mal funcionamento do projeto final.
 
-- **Linguagem de Programação** :
+ **Linguagem de Programação** :
 
 Linguagem de Programação é uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas (software). Um software pode ser desenvolvido para rodar em um computador, dispositivo móvel ou em qualquer equipamento que permita sua execução. Existem várias linguagens e elas servem para muitos propósitos. Alguns óbvios, como criar um software, outros menos, como controlar um carro ou uma torradeira.
 
