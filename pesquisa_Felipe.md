@@ -1,6 +1,6 @@
 # Conceitos do Mundo BackEnd
 
-##P esquisa para a aula da turma de BackEnd do Senac realizada em 27/01/2022
+## Pesquisa para a aula da turma de BackEnd do Senac realizada em 27/01/2022
 
 - **Biblioteca**
 Ela é uma coleção de subprogramas usados no desenvolvimento de softwares. A sua principal função é facilitar a programação, garantindo mais agilidade e menos erros. 
