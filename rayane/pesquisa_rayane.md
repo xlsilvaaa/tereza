@@ -9,7 +9,7 @@ Linguagens de programação geralmente tem bibliotecas pra todos os tipos de tar
 Então, uma biblioteca é o que você inclui quando deseja adicionar alguma funcionalidade ao seu código.
 Moment.js: Biblioteca para converter, validar, manipular e exibir datas e horários.
 
-#### São exemplos de biblioteca:
+### São exemplos de biblioteca:
 - **Chart.js:** Biblioteca para a criação de gráficos;
 - **Voca:** Biblioteca para trabalhar com Strings;
 - **mo.js:** Biblioteca para criar animações incríveis com SVG;
@@ -21,7 +21,7 @@ Framework é um conjunto de bibliotecas. Um framework não oferece apenas funcio
 
 É uma abstração que permite que os padrões de design comuns sejam **reutilizados**.
 
-#### São exemplos de framework (em JavaScript):
+### São exemplos de framework (em JavaScript):
 - **Angular:** Framework para criação de aplicações web;
 - **Vue.js:** Framework também para criação de aplicações web;
 - **Ionic:** Framework para criar aplicativos mobile com Angular, React ou Vue;
